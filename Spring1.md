@@ -1,9 +1,5 @@
 ### Spring Interview Questions & Answers
 
-> Click :star: if you like the project. Pull Request is highly appreciated. Follow me [@AltafJava](https://twitter.com/altafjava) for technical updates.
-
-![Spring-Logo](images/spring-logo.png)
-
 ## Table of Contents
 
 | No. | Questions                                                                                                                                                                |
